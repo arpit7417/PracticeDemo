@@ -25,9 +25,6 @@ public class FirstTestCase {
 	}
 	
 
-	@Test(priority=-1)
-	void logoutall() {
-		System.out.println("Logout from application");
-	}
+	
 
 }
